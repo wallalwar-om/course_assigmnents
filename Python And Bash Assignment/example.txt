@@ -1,0 +1,2 @@
+Hello! This is some content written to the file.
+Python file handling
